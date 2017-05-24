@@ -1,0 +1,49 @@
+body {
+  font-family: "Indie Flower", sans-serif;
+  background-image: url(http://www.wallpapers-web.com/data/out/16/3828310-animated-animal-wallpapers.jpg);
+}
+
+.title h1, .title h2{
+
+  background: white;
+  padding: 0px;
+  margin: 0px;
+  border: 3px solid white;
+  border-radius: 25px;
+  width: 320px;
+}
+
+.block {
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+ul {
+  background: rgba(100,149,237, .6);
+  width: 250px;
+}
+
+.main {
+  color: white;
+  text-shadow:
+    1px  1px 2px black,
+    1px -1px 2px black,
+    -2px -1px 1px blue,
+   -1px -1px 2px black,
+   -1px 3px 3px black,
+   1px 1px 1px black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.main-text {
+  font-weight: bold;
+
+}
+
+signature {
+  position: absolute;
+  left: 400px;
+  font-size: 12px;
+
+}
